@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/brit_hero_boudicca
+  </Auras>
+  <Identity>
+    <Civ>theb</Civ>
+	<Lang>greek</Lang>
+  <Phenotype>female</Phenotype>
+	<GenericName>Ariana</GenericName>
+    <SpecificName>Ariana</SpecificName>
+    <History>Ariana (died 778 BC) was an important Amazons warrior.</History>
+    <Icon>units/amaz/hero_ariana.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/amaz/hero_ariana.xml</Actor>
+  </VisualActor>
+</Entity>

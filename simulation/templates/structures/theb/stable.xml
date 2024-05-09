@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_stable">
+  <Footprint>
+    <Square width="24.0" depth="24.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>theb</Civ>
+    <SpecificName>Estábulo de Cavalos</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="22.0" depth="22.0"/>
+  </Obstruction>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -unlock_champion_cavalry
+    </Technologies>
+  </Researcher>
+  <VisualActor>
+    <Actor>structures/britons/stable.xml</Actor>
+    <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
+  </VisualActor>
+</Entity>

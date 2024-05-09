@@ -1,0 +1,9 @@
+{
+	"name": "Amazons",
+	"label": "Amazons - Alpha 26",
+	"version": "0.26.0",
+	"url": "https://github.com/xyperia/amazons-civ-0ad",
+	"description": "The Amazons civilization for 0 A.D. Empires Ascendant.",
+	"dependencies": ["0ad>=0.0.26"],
+	"type": "Factions"
+}
